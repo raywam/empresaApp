@@ -1,0 +1,18 @@
+.root {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+
+    .menu-column {
+        padding-right: 0px;
+    }
+
+    .menu-component {
+        padding-right: 0px;
+    }
+
+    .main-component {
+        padding-left: 0px;
+    }
+}
+
